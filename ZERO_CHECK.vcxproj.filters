@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="G:\test\pp-test\ypc_hrcoil\dabaodll\cpp_infer_tps_cpu\CMakeFiles\746b63bb8e3dd2de2c9bbcd149e5bf45\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A7FF81C3-9D27-3FB4-ACD3-9AEA6ECDDA29}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

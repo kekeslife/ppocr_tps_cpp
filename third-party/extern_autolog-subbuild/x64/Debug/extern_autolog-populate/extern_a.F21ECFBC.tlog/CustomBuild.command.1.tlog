@@ -1,0 +1,150 @@
+^G:\TEST\PP-TEST\YPC_HRCOIL\DABAODLL\CPP_INFER_TPS_CPU\THIRD-PARTY\EXTERN_AUTOLOG-SUBBUILD\CMAKEFILES\9679AD07195E1634FC36AEB83D9DBAE6\EXTERN_AUTOLOG-POPULATE-MKDIR.RULE
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -Dcfgdir=/Debug -P G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/third-party/extern_autolog-subbuild/autolog/tmp/extern_autolog-populate-mkdirs.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/third-party/extern_autolog-subbuild/autolog/src/extern_autolog-populate-stamp/Debug/extern_autolog-populate-mkdir
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^G:\TEST\PP-TEST\YPC_HRCOIL\DABAODLL\CPP_INFER_TPS_CPU\THIRD-PARTY\EXTERN_AUTOLOG-SUBBUILD\CMAKEFILES\9679AD07195E1634FC36AEB83D9DBAE6\EXTERN_AUTOLOG-POPULATE-DOWNLOAD.RULE
+setlocal
+cd G:\test\pp-test\ypc_hrcoil\dabaodll\cpp_infer_tps_cpu\third-party
+if %errorlevel% neq 0 goto :cmEnd
+G:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -P G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/third-party/extern_autolog-subbuild/autolog/tmp/extern_autolog-populate-gitclone.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/third-party/extern_autolog-subbuild/autolog/src/extern_autolog-populate-stamp/Debug/extern_autolog-populate-download
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^G:\TEST\PP-TEST\YPC_HRCOIL\DABAODLL\CPP_INFER_TPS_CPU\THIRD-PARTY\EXTERN_AUTOLOG-SUBBUILD\CMAKEFILES\9679AD07195E1634FC36AEB83D9DBAE6\EXTERN_AUTOLOG-POPULATE-UPDATE.RULE
+setlocal
+cd G:\test\pp-test\ypc_hrcoil\dabaodll\cpp_infer_tps_cpu\third-party\extern_autolog-src
+if %errorlevel% neq 0 goto :cmEnd
+G:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -Dcan_fetch=YES -P G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/third-party/extern_autolog-subbuild/autolog/tmp/extern_autolog-populate-gitupdate.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^G:\TEST\PP-TEST\YPC_HRCOIL\DABAODLL\CPP_INFER_TPS_CPU\THIRD-PARTY\EXTERN_AUTOLOG-SUBBUILD\CMAKEFILES\9679AD07195E1634FC36AEB83D9DBAE6\EXTERN_AUTOLOG-POPULATE-PATCH.RULE
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/third-party/extern_autolog-subbuild/autolog/src/extern_autolog-populate-stamp/Debug/extern_autolog-populate-patch
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^G:\TEST\PP-TEST\YPC_HRCOIL\DABAODLL\CPP_INFER_TPS_CPU\THIRD-PARTY\EXTERN_AUTOLOG-SUBBUILD\CMAKEFILES\9679AD07195E1634FC36AEB83D9DBAE6\EXTERN_AUTOLOG-POPULATE-CONFIGURE.RULE
+setlocal
+cd G:\test\pp-test\ypc_hrcoil\dabaodll\cpp_infer_tps_cpu\third-party\extern_autolog-build
+if %errorlevel% neq 0 goto :cmEnd
+G:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/third-party/extern_autolog-subbuild/autolog/src/extern_autolog-populate-stamp/Debug/extern_autolog-populate-configure
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^G:\TEST\PP-TEST\YPC_HRCOIL\DABAODLL\CPP_INFER_TPS_CPU\THIRD-PARTY\EXTERN_AUTOLOG-SUBBUILD\CMAKEFILES\9679AD07195E1634FC36AEB83D9DBAE6\EXTERN_AUTOLOG-POPULATE-BUILD.RULE
+setlocal
+cd G:\test\pp-test\ypc_hrcoil\dabaodll\cpp_infer_tps_cpu\third-party\extern_autolog-build
+if %errorlevel% neq 0 goto :cmEnd
+G:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/third-party/extern_autolog-subbuild/autolog/src/extern_autolog-populate-stamp/Debug/extern_autolog-populate-build
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^G:\TEST\PP-TEST\YPC_HRCOIL\DABAODLL\CPP_INFER_TPS_CPU\THIRD-PARTY\EXTERN_AUTOLOG-SUBBUILD\CMAKEFILES\9679AD07195E1634FC36AEB83D9DBAE6\EXTERN_AUTOLOG-POPULATE-INSTALL.RULE
+setlocal
+cd G:\test\pp-test\ypc_hrcoil\dabaodll\cpp_infer_tps_cpu\third-party\extern_autolog-build
+if %errorlevel% neq 0 goto :cmEnd
+G:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/third-party/extern_autolog-subbuild/autolog/src/extern_autolog-populate-stamp/Debug/extern_autolog-populate-install
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^G:\TEST\PP-TEST\YPC_HRCOIL\DABAODLL\CPP_INFER_TPS_CPU\THIRD-PARTY\EXTERN_AUTOLOG-SUBBUILD\CMAKEFILES\9679AD07195E1634FC36AEB83D9DBAE6\EXTERN_AUTOLOG-POPULATE-TEST.RULE
+setlocal
+cd G:\test\pp-test\ypc_hrcoil\dabaodll\cpp_infer_tps_cpu\third-party\extern_autolog-build
+if %errorlevel% neq 0 goto :cmEnd
+G:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/third-party/extern_autolog-subbuild/autolog/src/extern_autolog-populate-stamp/Debug/extern_autolog-populate-test
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^G:\TEST\PP-TEST\YPC_HRCOIL\DABAODLL\CPP_INFER_TPS_CPU\THIRD-PARTY\EXTERN_AUTOLOG-SUBBUILD\CMAKEFILES\108215608D55DAD890596549D7D7A8FA\EXTERN_AUTOLOG-POPULATE-COMPLETE.RULE
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -E make_directory G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/third-party/extern_autolog-subbuild/CMakeFiles/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/third-party/extern_autolog-subbuild/CMakeFiles/Debug/extern_autolog-populate-complete
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/third-party/extern_autolog-subbuild/autolog/src/extern_autolog-populate-stamp/Debug/extern_autolog-populate-done
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^G:\TEST\PP-TEST\YPC_HRCOIL\DABAODLL\CPP_INFER_TPS_CPU\THIRD-PARTY\EXTERN_AUTOLOG-SUBBUILD\CMAKEFILES\ED57BC680A0087F0D6A8C9E47DC7097C\EXTERN_AUTOLOG-POPULATE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^G:\TEST\PP-TEST\YPC_HRCOIL\DABAODLL\CPP_INFER_TPS_CPU\THIRD-PARTY\EXTERN_AUTOLOG-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -SG:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/third-party/extern_autolog-subbuild -BG:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/third-party/extern_autolog-subbuild --check-stamp-file G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/third-party/extern_autolog-subbuild/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

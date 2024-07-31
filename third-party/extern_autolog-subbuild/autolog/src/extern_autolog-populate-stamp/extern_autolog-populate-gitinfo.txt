@@ -1,0 +1,15 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=git
+command=D:/Program Files/CMake/bin/cmake.exe;-P;G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/third-party/extern_autolog-subbuild/autolog/tmp/extern_autolog-populate-gitclone.cmake
+source_dir=G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/third-party/extern_autolog-src
+work_dir=G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/third-party
+repository=https://github.com/LDOUBLEV/AutoLog.git
+remote=origin
+init_submodules=TRUE
+recurse_submodules=--recursive
+submodules=
+CMP0097=NEW
+

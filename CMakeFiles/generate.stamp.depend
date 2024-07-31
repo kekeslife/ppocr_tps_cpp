@@ -1,0 +1,37 @@
+# CMake generation dependency list for this directory.
+D:/Program Files/CMake/share/cmake-3.29/Modules/CMakeCInformation.cmake
+D:/Program Files/CMake/share/cmake-3.29/Modules/CMakeCXXInformation.cmake
+D:/Program Files/CMake/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake
+D:/Program Files/CMake/share/cmake-3.29/Modules/CMakeGenericSystem.cmake
+D:/Program Files/CMake/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake
+D:/Program Files/CMake/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake
+D:/Program Files/CMake/share/cmake-3.29/Modules/CMakeRCInformation.cmake
+D:/Program Files/CMake/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake
+D:/Program Files/CMake/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake
+D:/Program Files/CMake/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/Program Files/CMake/share/cmake-3.29/Modules/Compiler/MSVC-C.cmake
+D:/Program Files/CMake/share/cmake-3.29/Modules/Compiler/MSVC-CXX.cmake
+D:/Program Files/CMake/share/cmake-3.29/Modules/Compiler/MSVC.cmake
+D:/Program Files/CMake/share/cmake-3.29/Modules/ExternalProject/shared_internal_commands.cmake
+D:/Program Files/CMake/share/cmake-3.29/Modules/FetchContent.cmake
+D:/Program Files/CMake/share/cmake-3.29/Modules/FetchContent/CMakeLists.cmake.in
+D:/Program Files/CMake/share/cmake-3.29/Modules/FindGit.cmake
+D:/Program Files/CMake/share/cmake-3.29/Modules/FindPackageHandleStandardArgs.cmake
+D:/Program Files/CMake/share/cmake-3.29/Modules/FindPackageMessage.cmake
+D:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake
+D:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows-MSVC-C.cmake
+D:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows-MSVC.cmake
+D:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows.cmake
+D:/Program Files/CMake/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake
+D:/Program Files/opencv/build/x64/vc15/lib/OpenCVConfig-version.cmake
+D:/Program Files/opencv/build/x64/vc15/lib/OpenCVConfig.cmake
+D:/Program Files/opencv/build/x64/vc15/lib/OpenCVModules-debug.cmake
+D:/Program Files/opencv/build/x64/vc15/lib/OpenCVModules-release.cmake
+D:/Program Files/opencv/build/x64/vc15/lib/OpenCVModules.cmake
+G:/test/pp-test/ypc_hrcoil/PaddleOCR-main/deploy/cpp_infer/CMakeLists.txt
+G:/test/pp-test/ypc_hrcoil/PaddleOCR-main/deploy/cpp_infer/external-cmake/auto-log.cmake
+G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/CMakeFiles/3.29.4/CMakeCCompiler.cmake
+G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/CMakeFiles/3.29.4/CMakeCXXCompiler.cmake
+G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/CMakeFiles/3.29.4/CMakeRCCompiler.cmake
+G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/CMakeFiles/3.29.4/CMakeSystem.cmake

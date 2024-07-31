@@ -1,0 +1,22 @@
+# CMake generation dependency list for this directory.
+D:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineSystem.cmake
+D:/Program Files/CMake/share/cmake-3.29/Modules/CMakeGenericSystem.cmake
+D:/Program Files/CMake/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake
+D:/Program Files/CMake/share/cmake-3.29/Modules/CMakeSystem.cmake.in
+D:/Program Files/CMake/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake
+D:/Program Files/CMake/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake
+D:/Program Files/CMake/share/cmake-3.29/Modules/ExternalProject.cmake
+D:/Program Files/CMake/share/cmake-3.29/Modules/ExternalProject/PatchInfo.txt.in
+D:/Program Files/CMake/share/cmake-3.29/Modules/ExternalProject/RepositoryInfo.txt.in
+D:/Program Files/CMake/share/cmake-3.29/Modules/ExternalProject/UpdateInfo.txt.in
+D:/Program Files/CMake/share/cmake-3.29/Modules/ExternalProject/cfgcmd.txt.in
+D:/Program Files/CMake/share/cmake-3.29/Modules/ExternalProject/gitclone.cmake.in
+D:/Program Files/CMake/share/cmake-3.29/Modules/ExternalProject/gitupdate.cmake.in
+D:/Program Files/CMake/share/cmake-3.29/Modules/ExternalProject/mkdirs.cmake.in
+D:/Program Files/CMake/share/cmake-3.29/Modules/ExternalProject/shared_internal_commands.cmake
+D:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake
+D:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows.cmake
+D:/Program Files/CMake/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake
+G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/third-party/extern_autolog-subbuild/CMakeFiles/3.29.4/CMakeSystem.cmake
+G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/third-party/extern_autolog-subbuild/CMakeLists.txt
+G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/third-party/extern_autolog-subbuild/autolog/tmp/extern_autolog-populate-mkdirs.cmake

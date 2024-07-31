@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/third-party/extern_autolog-subbuild/CMakeFiles/extern_autolog-populate"
+		},
+		{
+			"file" : "G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/third-party/extern_autolog-subbuild/CMakeFiles/ed57bc680a0087f0d6a8c9e47dc7097c/extern_autolog-populate.rule"
+		},
+		{
+			"file" : "G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/third-party/extern_autolog-subbuild/CMakeFiles/108215608d55dad890596549d7d7a8fa/extern_autolog-populate-complete.rule"
+		},
+		{
+			"file" : "G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/third-party/extern_autolog-subbuild/CMakeFiles/9679ad07195e1634fc36aeb83d9dbae6/extern_autolog-populate-build.rule"
+		},
+		{
+			"file" : "G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/third-party/extern_autolog-subbuild/CMakeFiles/9679ad07195e1634fc36aeb83d9dbae6/extern_autolog-populate-configure.rule"
+		},
+		{
+			"file" : "G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/third-party/extern_autolog-subbuild/CMakeFiles/9679ad07195e1634fc36aeb83d9dbae6/extern_autolog-populate-download.rule"
+		},
+		{
+			"file" : "G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/third-party/extern_autolog-subbuild/CMakeFiles/9679ad07195e1634fc36aeb83d9dbae6/extern_autolog-populate-install.rule"
+		},
+		{
+			"file" : "G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/third-party/extern_autolog-subbuild/CMakeFiles/9679ad07195e1634fc36aeb83d9dbae6/extern_autolog-populate-mkdir.rule"
+		},
+		{
+			"file" : "G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/third-party/extern_autolog-subbuild/CMakeFiles/9679ad07195e1634fc36aeb83d9dbae6/extern_autolog-populate-patch.rule"
+		},
+		{
+			"file" : "G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/third-party/extern_autolog-subbuild/CMakeFiles/9679ad07195e1634fc36aeb83d9dbae6/extern_autolog-populate-test.rule"
+		},
+		{
+			"file" : "G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/third-party/extern_autolog-subbuild/CMakeFiles/9679ad07195e1634fc36aeb83d9dbae6/extern_autolog-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"extern_autolog-populate"
+		],
+		"name" : "extern_autolog-populate"
+	}
+}

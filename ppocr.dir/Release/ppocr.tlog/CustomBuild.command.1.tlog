@@ -1,0 +1,10 @@
+^G:\TEST\PP-TEST\YPC_HRCOIL\PADDLEOCR-MAIN\DEPLOY\CPP_INFER\CMAKELISTS.TXT
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -SG:/test/pp-test/ypc_hrcoil/PaddleOCR-main/deploy/cpp_infer -BG:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu --check-stamp-file G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

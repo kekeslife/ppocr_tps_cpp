@@ -1,0 +1,4 @@
+G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/CMakeFiles/ppocr.dir
+G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/CMakeFiles/ALL_BUILD.dir
+G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/CMakeFiles/ZERO_CHECK.dir
+G:/test/pp-test/ypc_hrcoil/dabaodll/cpp_infer_tps_cpu/third-party/extern_autolog-build/CMakeFiles/ALL_BUILD.dir

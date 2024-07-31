@@ -1,0 +1,22 @@
+如果无法安装到指定环境，是不是配置了pythonhome环境变量，删掉它
+# cd ypc_hrcoil/paddleocr-main
+# python ./tools/infer/ke_system.py --image_dir="../cam1.jpg" --det_model_dir="../det_sast_tt" --rec_model_dir="../ch_PP-OCRv4_rec_infer" --cls_model_dir="../ch_ppocr_mobile_v2.0_cls_infer" --det_algorithm="SAST" --det_box_type="poly" 
+# python ./tools/infer/ke_det.py --image_dir="../cam0.jpg" --det_model_dir="../det_sast_tt" --det_algorithm="SAST" --det_box_type="poly"
+# python ./tools/infer/ke_det.py --image_dir="../cam3-s.jpg" --det_model_dir="../en_PP-OCRv3_det_infer" --det_box_type="poly"
+
+python ./tools/infer/ke_system.py --image_dir="../cam1.jpg" --det_model_dir="../en_PP-OCRv3_det_infer" --rec_model_dir="../ch_PP-OCRv4_rec_infer" --cls_model_dir="../ch_ppocr_mobile_v2.0_cls_infer" --det_box_type="poly" 
+
+./ppocr.exe system --det_model_dir="G:/test/pp-test/ypc_hrcoil/ch_PP-OCRv4_det_infer" --rec_model_dir="G:/test/pp-test/ypc_hrcoil/ch_PP-OCRv4_rec_infer" --image_dir="G:/test/pp-test/ypc_hrcoil/test.png" --rec_char_dict_path="ppocr_keys_v1.txt"
+
+./ppocr_cpu.exe system --det_model_dir="models/ch_PP-OCRv4_det_infer" --rec_model_dir="models/ch_PP-OCRv4_rec_infer" --image_dir="cam3-s.jpg" --rec_char_dict_path="models/ppocr_keys_v1.txt"
+
+将dabaodll中的ppocr项目输出改为dll
+编译c++（dabaodll） https://github.com/PaddlePaddle/PaddleOCR/blob/main/deploy/cpp_infer/docs/windows_vs2019_build.md
+运行c#（ppocrtest） 
+	c++运行库 
+	用vs发布
+	复制 G:\test\pp-test\ypc_hrcoil\dabaodll\cpp_infer_tps_cpu\Release中的dll
+	复制 D:\Program Files\opencv4\opencv\build\x64\vc15\bin到c# system32或者realse
+	重启之后，要先请求一次，不然会报错 http://192.168.0.230:5000/ocr_mat/41
+
+

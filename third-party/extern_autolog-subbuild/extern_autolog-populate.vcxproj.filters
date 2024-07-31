@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="G:\test\pp-test\ypc_hrcoil\dabaodll\cpp_infer_tps_cpu\third-party\extern_autolog-subbuild\CMakeFiles\9679ad07195e1634fc36aeb83d9dbae6\extern_autolog-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\test\pp-test\ypc_hrcoil\dabaodll\cpp_infer_tps_cpu\third-party\extern_autolog-subbuild\CMakeFiles\9679ad07195e1634fc36aeb83d9dbae6\extern_autolog-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\test\pp-test\ypc_hrcoil\dabaodll\cpp_infer_tps_cpu\third-party\extern_autolog-subbuild\CMakeFiles\9679ad07195e1634fc36aeb83d9dbae6\extern_autolog-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\test\pp-test\ypc_hrcoil\dabaodll\cpp_infer_tps_cpu\third-party\extern_autolog-subbuild\CMakeFiles\9679ad07195e1634fc36aeb83d9dbae6\extern_autolog-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\test\pp-test\ypc_hrcoil\dabaodll\cpp_infer_tps_cpu\third-party\extern_autolog-subbuild\CMakeFiles\9679ad07195e1634fc36aeb83d9dbae6\extern_autolog-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\test\pp-test\ypc_hrcoil\dabaodll\cpp_infer_tps_cpu\third-party\extern_autolog-subbuild\CMakeFiles\9679ad07195e1634fc36aeb83d9dbae6\extern_autolog-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\test\pp-test\ypc_hrcoil\dabaodll\cpp_infer_tps_cpu\third-party\extern_autolog-subbuild\CMakeFiles\9679ad07195e1634fc36aeb83d9dbae6\extern_autolog-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\test\pp-test\ypc_hrcoil\dabaodll\cpp_infer_tps_cpu\third-party\extern_autolog-subbuild\CMakeFiles\9679ad07195e1634fc36aeb83d9dbae6\extern_autolog-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\test\pp-test\ypc_hrcoil\dabaodll\cpp_infer_tps_cpu\third-party\extern_autolog-subbuild\CMakeFiles\108215608d55dad890596549d7d7a8fa\extern_autolog-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\test\pp-test\ypc_hrcoil\dabaodll\cpp_infer_tps_cpu\third-party\extern_autolog-subbuild\CMakeFiles\ed57bc680a0087f0d6a8c9e47dc7097c\extern_autolog-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\test\pp-test\ypc_hrcoil\dabaodll\cpp_infer_tps_cpu\third-party\extern_autolog-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="G:\test\pp-test\ypc_hrcoil\dabaodll\cpp_infer_tps_cpu\third-party\extern_autolog-subbuild\CMakeFiles\extern_autolog-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C41126B4-A756-310F-AE36-96F508E191F8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

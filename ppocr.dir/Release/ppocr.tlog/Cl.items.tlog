@@ -1,0 +1,13 @@
+G:\test\pp-test\ypc_hrcoil\PaddleOCR-main\deploy\cpp_infer\src\args.cpp;G:\test\pp-test\ypc_hrcoil\dabaodll\cpp_infer_tps_cpu\ppocr.dir\Release\args.obj
+G:\test\pp-test\ypc_hrcoil\PaddleOCR-main\deploy\cpp_infer\src\clipper.cpp;G:\test\pp-test\ypc_hrcoil\dabaodll\cpp_infer_tps_cpu\ppocr.dir\Release\clipper.obj
+G:\test\pp-test\ypc_hrcoil\PaddleOCR-main\deploy\cpp_infer\src\main.cpp;G:\test\pp-test\ypc_hrcoil\dabaodll\cpp_infer_tps_cpu\ppocr.dir\Release\main.obj
+G:\test\pp-test\ypc_hrcoil\PaddleOCR-main\deploy\cpp_infer\src\ocr_cls.cpp;G:\test\pp-test\ypc_hrcoil\dabaodll\cpp_infer_tps_cpu\ppocr.dir\Release\ocr_cls.obj
+G:\test\pp-test\ypc_hrcoil\PaddleOCR-main\deploy\cpp_infer\src\ocr_det.cpp;G:\test\pp-test\ypc_hrcoil\dabaodll\cpp_infer_tps_cpu\ppocr.dir\Release\ocr_det.obj
+G:\test\pp-test\ypc_hrcoil\PaddleOCR-main\deploy\cpp_infer\src\ocr_rec.cpp;G:\test\pp-test\ypc_hrcoil\dabaodll\cpp_infer_tps_cpu\ppocr.dir\Release\ocr_rec.obj
+G:\test\pp-test\ypc_hrcoil\PaddleOCR-main\deploy\cpp_infer\src\paddleocr.cpp;G:\test\pp-test\ypc_hrcoil\dabaodll\cpp_infer_tps_cpu\ppocr.dir\Release\paddleocr.obj
+G:\test\pp-test\ypc_hrcoil\PaddleOCR-main\deploy\cpp_infer\src\paddlestructure.cpp;G:\test\pp-test\ypc_hrcoil\dabaodll\cpp_infer_tps_cpu\ppocr.dir\Release\paddlestructure.obj
+G:\test\pp-test\ypc_hrcoil\PaddleOCR-main\deploy\cpp_infer\src\postprocess_op.cpp;G:\test\pp-test\ypc_hrcoil\dabaodll\cpp_infer_tps_cpu\ppocr.dir\Release\postprocess_op.obj
+G:\test\pp-test\ypc_hrcoil\PaddleOCR-main\deploy\cpp_infer\src\preprocess_op.cpp;G:\test\pp-test\ypc_hrcoil\dabaodll\cpp_infer_tps_cpu\ppocr.dir\Release\preprocess_op.obj
+G:\test\pp-test\ypc_hrcoil\PaddleOCR-main\deploy\cpp_infer\src\structure_layout.cpp;G:\test\pp-test\ypc_hrcoil\dabaodll\cpp_infer_tps_cpu\ppocr.dir\Release\structure_layout.obj
+G:\test\pp-test\ypc_hrcoil\PaddleOCR-main\deploy\cpp_infer\src\structure_table.cpp;G:\test\pp-test\ypc_hrcoil\dabaodll\cpp_infer_tps_cpu\ppocr.dir\Release\structure_table.obj
+G:\test\pp-test\ypc_hrcoil\PaddleOCR-main\deploy\cpp_infer\src\utility.cpp;G:\test\pp-test\ypc_hrcoil\dabaodll\cpp_infer_tps_cpu\ppocr.dir\Release\utility.obj
